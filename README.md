@@ -1,4 +1,4 @@
-# EmployeeAttendance
+# Employee Attendance Mobile Application
  >This is my FYP for Employee Attendance Mobile Application
 
 This project, involves Front-end(Flutter), Back-end(Spring Boot), and WebSocket.
